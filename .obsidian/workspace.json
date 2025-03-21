@@ -11,10 +11,14 @@
             "id": "cde22808bc18a7d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tryhackme/JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 The CIA Triad"
             }
           }
         ]
@@ -136,20 +140,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tryhackme/JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1.2 The CIA Triad"
+            }
+          },
+          {
+            "id": "01ef028e2d9f4365",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,13 +173,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4077a8f2ddb6bcef",
+  "active": "cde22808bc18a7d6",
   "lastOpenFiles": [
-    "Tryhackme/JR Penetration tester PATH/1.0 Principles of Security/1.1 Introduction.md",
+    "copilot-conversations/o_que_significa_is_laid_out_em_portugues@20250321_165628.md",
     "Tryhackme/JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad.md",
+    "copilot-conversations",
+    "Tryhackme/images/Pasted image 20250321135245.png",
+    "Tryhackme/images/Untitled.md",
+    "Tryhackme/images",
+    "Pasted image 20250321135057.png",
+    "Tryhackme/JR Penetration tester PATH/1.0 Principles of Security/1.1 Introduction.md",
+    "Algorithms in Java",
     "Tryhackme/JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad",
     "Tryhackme/JR Penetration tester PATH/JR Penetration tester PATH.md",
     "Tryhackme/JR Penetration tester PATH/Principles of Security/Introduction",
