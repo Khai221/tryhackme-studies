@@ -11,12 +11,14 @@
             "id": "cff605490e3f1c47",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/the bell-la padula model.png"
+                "file": "JR Penetration tester PATH/1.0 Principles of Security/1.4 Security Models Continued.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "the bell-la padula model"
+              "icon": "lucide-file",
+              "title": "1.4 Security Models Continued"
             }
           }
         ]
@@ -189,13 +191,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f16ca3ed1a908266",
+  "active": "cff605490e3f1c47",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-22 20.22.21.excalidraw.md",
+    "JR Penetration tester PATH/1.0 Principles of Security/1.5 Threat Modelling & Incident Response.md",
     "Excalidraw/the bell-la padula model.png",
+    "Excalidraw/Drawing 2025-03-22 20.22.21.excalidraw.md",
     "JR Penetration tester PATH/1.0 Principles of Security/1.4 Security Models Continued.md",
     "Excalidraw/Drawing 2025-03-22 20.22.15.excalidraw.md",
-    "JR Penetration tester PATH/1.0 Principles of Security/1.5 Threat Modelling & Incident Response.md",
     "images",
     "JR Penetration tester PATH/1.0 Principles of Security/1.3 Principles of Privileges.md",
     "JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad.md",
