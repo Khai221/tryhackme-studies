@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JR Penetration tester PATH/1.0 Principles of Security/1.4 Security Models Continued.md",
+                "file": "JR Penetration tester PATH/1.0 Principles of Security/1.5 Threat Modelling & Incident Response.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Security Models Continued"
+              "title": "1.5 Threat Modelling & Incident Response"
             }
           }
         ],
@@ -208,14 +208,15 @@
   },
   "active": "cff605490e3f1c47",
   "lastOpenFiles": [
+    "JR Penetration tester PATH/1.0 Principles of Security/1.4 Security Models Continued.md",
+    "JR Penetration tester PATH/1.0 Principles of Security/1.3 Principles of Privileges.md",
+    "JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad.md",
+    "JR Penetration tester PATH/1.0 Principles of Security/1.1 Introduction.md",
+    "JR Penetration tester PATH/1.0 Principles of Security/1.5 Threat Modelling & Incident Response.md",
     "Pasted image 20250322202934.png",
     "Excalidraw/Drawing 2025-03-22 20.22.21.excalidraw.md",
     "Excalidraw/Drawing 2025-03-22 20.22.15.excalidraw.md",
-    "JR Penetration tester PATH/1.0 Principles of Security/1.4 Security Models Continued.md",
     "Excalidraw",
-    "JR Penetration tester PATH/1.0 Principles of Security/1.3 Principles of Privileges.md",
-    "JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad.md",
-    "JR Penetration tester PATH/1.0 Principles of Security/Untitled",
-    "JR Penetration tester PATH/1.0 Principles of Security/1.1 Introduction.md"
+    "JR Penetration tester PATH/1.0 Principles of Security/Untitled"
   ]
 }
