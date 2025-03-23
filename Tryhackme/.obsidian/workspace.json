@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad.md",
+                "file": "JR Penetration tester PATH/1.0 Principles of Security/1.4 Security Models Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 The CIA Triad"
+              "title": "1.4 Security Models Continued"
+            }
+          },
+          {
+            "id": "cff605490e3f1c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JR Penetration tester PATH/1.0 Principles of Security/1.4 Security Models Continued.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 Security Models Continued"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +206,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f16ca3ed1a908266",
+  "active": "cff605490e3f1c47",
   "lastOpenFiles": [
+    "Pasted image 20250322202934.png",
+    "Excalidraw/Drawing 2025-03-22 20.22.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-22 20.22.15.excalidraw.md",
+    "JR Penetration tester PATH/1.0 Principles of Security/1.4 Security Models Continued.md",
+    "Excalidraw",
+    "JR Penetration tester PATH/1.0 Principles of Security/1.3 Principles of Privileges.md",
+    "JR Penetration tester PATH/1.0 Principles of Security/1.2 The CIA Triad.md",
+    "JR Penetration tester PATH/1.0 Principles of Security/Untitled",
     "JR Penetration tester PATH/1.0 Principles of Security/1.1 Introduction.md"
   ]
 }

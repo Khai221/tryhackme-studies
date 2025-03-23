@@ -2,5 +2,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-icon-folder",
-  "copilot"
+  "copilot",
+  "obsidian-discordrpc",
+  "colored-text"
 ]
