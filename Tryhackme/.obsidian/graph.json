@@ -6,17 +6,25 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"JR Penetration tester PATH\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1221916
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.763541666666667,
+  "lineSizeMultiplier": 0.6359375,
   "collapse-forces": false,
   "centerStrength": 0.635416666666667,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.4019828977761022,
   "close": true
 }
